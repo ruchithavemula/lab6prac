@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\labprac\lab6\fullstack\backend\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1039449957.index
+4282163167.index
+1847835630.index
+3659600022.index
+1754446084.index
